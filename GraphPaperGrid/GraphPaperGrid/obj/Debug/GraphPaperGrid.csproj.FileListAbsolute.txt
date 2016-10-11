@@ -1,0 +1,6 @@
+c:\users\dvinson\documents\visual studio 2015\Projects\GraphPaperGrid\GraphPaperGrid\bin\Debug\GraphPaperGrid.dll
+c:\users\dvinson\documents\visual studio 2015\Projects\GraphPaperGrid\GraphPaperGrid\bin\Debug\GraphPaperGrid.pdb
+c:\users\dvinson\documents\visual studio 2015\Projects\GraphPaperGrid\GraphPaperGrid\obj\Debug\GraphPaperGrid.GraphPaper.resources
+c:\users\dvinson\documents\visual studio 2015\Projects\GraphPaperGrid\GraphPaperGrid\obj\Debug\GraphPaperGrid.csproj.GenerateResource.Cache
+c:\users\dvinson\documents\visual studio 2015\Projects\GraphPaperGrid\GraphPaperGrid\obj\Debug\GraphPaperGrid.dll
+c:\users\dvinson\documents\visual studio 2015\Projects\GraphPaperGrid\GraphPaperGrid\obj\Debug\GraphPaperGrid.pdb
