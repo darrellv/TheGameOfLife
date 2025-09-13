@@ -1,4 +1,7 @@
 # TheGameOfLife
+
+Creating this was really fun!
+
 checkerboard-style grid control and app that uses it to do the life-simulation game
 
 GraphPaperGrid is the user control that creates the checkerboard-style graphic area where squares are filled or emptied using method calls from Life2
