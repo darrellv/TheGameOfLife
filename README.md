@@ -15,16 +15,10 @@ Life2 applies GraphPaperGrid and modifies it's properties to display generations
 
 Conway's "Game of Life," invented by mathematician John Conway in 1970, is a "zero-player game" played on an infinite 2D grid of square cells. Its evolution is driven entirely by its initial setup, following just a few mathematical rules. 
 
-John Conway's Game of Life
- +3
 The game was famously popularized by Martin Gardner's "Mathematical Games" column in the October 1970 issue of Scientific American. It was originally played using physical tokens (like checkers or Go counters) on graph paper, though it rapidly became a staple of early computer science once digital displays became accessible. 
 
-Wikipedia
- +3
 The original Life universe functions on an infinite grid of square cells that can either be "alive" or "dead". Every cell interacts with its eight horizontal, vertical, and diagonal neighbors. At each time step (or generation), the following rules apply simultaneously to every cell: 
 
-ConwayLife.com
- +3
 Underpopulation: Any live cell with fewer than two live neighbors dies.
 Overpopulation: Any live cell with more than three live neighbors dies.
 Survival: Any live cell with exactly two or three live neighbors lives on to the next generation.
@@ -33,10 +27,5 @@ Birth: Any dead cell with exactly three live neighbors comes to life.
 ConwayLife.com
 Depending on the chosen starting arrangement, the grid might completely die out, settle into a stationary or oscillating pattern, or create mobile patterns (like "gliders") that travel across the board. 
 For a closer look at the stunning, emergent visual patterns that these simple rules can generate:
-Related video thumbnail
-0:47
-What is the Game of Life? #shorts
 
-
-Green Code
-YouTube · Jul 22, 2022
+https://www.youtube.com/shorts/OTWSgHc-2Ho
