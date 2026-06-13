@@ -1,4 +1,4 @@
-# TheGameOfLife -- This is not the Milton Bradly game.  It is a simulation that creates a pattern.
+# TheGameOfLife -- This is not the Milton Bradley game.  It is a simulation that creates a pattern.
 
 Creating this was really fun!
 
